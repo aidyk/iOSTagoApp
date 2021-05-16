@@ -32,7 +32,7 @@ onto my iPhone. And it works like charm.
 0. Install imazing (https://imazing.com) and connect your iPhone to your PC using a cable.
 1. Launch iMazing. Click 'Continue Trial' on the top right corner.
 2. Make sure that your iPhone is listed on the left panel.
-3. Click your phone on the left panel and go to the 'Manage Apps' menu on the right. <img width="1027" alt="Screen Shot 2021-05-16 at 7 24 27 PM" src="https://user-images.githubusercontent.com/6064377/118393923-8811cd00-b67c-11eb-9ec1-8a54c6cc0d24.png">
+3. Click your phone and click the 'Manage Apps' menu on the right side. <img width="1027" alt="Screen Shot 2021-05-16 at 7 24 27 PM" src="https://user-images.githubusercontent.com/6064377/118393923-8811cd00-b67c-11eb-9ec1-8a54c6cc0d24.png">
 4. Drag and drop the .imazingapp file into your app list (in the Device tab, not Library).
 5. When rebooted, it seems like an iPhone after factory reset. But don't panic, just continue the steps.
 6. When 'Apps & Data' screen appears, press **Don't Transfrer Apps & Data**, which will keep your data on the phone safely.

@@ -3,6 +3,8 @@
 Disclaimer: I do not own this application, which is originally developed by liber8tech.
 .IPA (original) and .imazingapp (frozen state) files are from Tago app 2.1.1 via IPA extraction.
 
+You can download .IPA and .imazingapp files here (https://github.com/aidyk/iOSTagoApp/releases/tag/0.0.1).
+
 # .IPA (original version, but not working)
 You can simply install the .ipa, the original version of Tago app 2.1.1, onto your iOS device
 in some officially supported ways. BUT the original app wouldn't allow you to login due to the
